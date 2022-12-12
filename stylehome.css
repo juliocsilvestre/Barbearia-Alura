@@ -107,7 +107,7 @@ nav a:hover {
 }
 
 footer {
-	background: url("C:/Users/potte/Desktop/Programação/Alura/HTML5 e CSS3/Parte 03/imagens/bg.jpg");
+	background: url(imagens/bg.jpg);
 	text-align: center;
 	padding: 40px 0;
 
