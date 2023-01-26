@@ -1,10 +1,10 @@
 <h1> 📁 Resumo do projeto</h1>
 
-- Portfolio front-end com um conjunto de projetos e trabalhos que demonstram as minhas habilidades e conhecimentos como desenvolvedor e que também incluem detalhes sobre as minhas experiências (pessoal e profissional), habilidades técnicas e contato para possíveis empregadores ou clientes.
+- Projeto feito durante as aulas do curso Alura acerca de HTML e CSS ministrados pelo professor Pedro Marins.
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de mostrar os meus projetos desenvolvidos e falar um pouco sobre minhas experiencias profissionais e pessoais com acesso ao deploy do projeto e suas funcionalidades. 
+- Desenvolver uma página web iniciando da estruturação por tags informativas que vão definir as regras da página, idioma, fonte, estilo e compatibilidade. Tags de conteúdo, como título, parágrafo, lista, formulário, tabela, incorporação de conteúdos externos, como vídeos, fontes e mapas, a inserção de imagens, tudo através de tags e divisões semânticas e usando um design totalmente responsivo. 
 
 
 ✔️ Técnicas e tecnologias utilizadas
