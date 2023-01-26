@@ -1,11 +1,10 @@
 <h1> 📁 Resumo do projeto</h1>
 
-- Barbearia Alura é um projeto de pagina html, já finalizado. Projeto realizado por mim, Aluno da plataforma da Alura, visando a prática com o HTML5 e CSS3.
-
+- Portfolio front-end com um conjunto de projetos e trabalhos que demonstram as minhas habilidades e conhecimentos como desenvolvedor e que também incluir detalhes sobre as minhas experiências (pessoal e profissional), habilidades técnicas e contato para possíveis empregadores ou clientes.
 
 🔨 Funcionalidades do projeto
 ---
-- Funcionalidade: Projeto feito com o intuito de inserção do HTML & CSS. Demonstrando a usabilidade das Linguagens em projetos do nosso dia-a-dia.
+- Funcionalidade: Projeto feito com o intuito de mostrar os meus projetos desenvolvidos e falar um pouco sobre minhas experiencias profissionais e pessoais com acesso ao deploy do projeto e suas funcionalidades. 
 
 
 ✔️ Técnicas e tecnologias utilizadas
